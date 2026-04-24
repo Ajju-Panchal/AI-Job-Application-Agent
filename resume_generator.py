@@ -8,7 +8,7 @@ from langchain_core.tools import tool
 llm = ChatGoogleGenerativeAI(
     model="gemini-2.5-flash-lite",
     temperature=0.1, # Low temperature ensures strict adherence to JSON formatting
-    google_api_key="AIzaSyC_UZ976nZ1N-q4llI3cwD2Xasz5WZaQq0"
+    google_api_key="Google API Key here"
 
 )
 
