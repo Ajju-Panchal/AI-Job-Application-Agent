@@ -1,0 +1,89 @@
+{
+  "personal_info": {
+    "name": "Ajay Luhar",
+    "email": "iamajayluhar@gmail.com",
+    "phone": "+1(548) 333-4376",
+    "location": "Mississauga, Ontario",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/ajayluhar"
+    }
+  },
+  "professional_summary": "Results-driven Python Engineer with 4+ years of experience designing scalable backend systems, enterprise APIs, and AI-enabled applications. Expertise in Django, Flask, REST APIs, and microservices, with hands-on experience integrating ML models and AWS cloud services.",
+  "technical_skills": {
+    "programming": ["Python", "JavaScript", "C"],
+    "web_api_development": ["Django", "Flask", "FastAPI", "RESTful APIs", "Microservices Architecture"],
+    "ai_ml": ["TensorFlow", "PyTorch", "NLP", "Computer Vision", "Model Deployment"],
+    "data_ml_engineering": ["Pandas", "NumPy", "Data Preprocessing", "Feature Engineering", "Model Evaluation"],
+    "cloud_infrastructure": ["AWS (Lambda, API Gateway, S3)", "Serverless Architectures", "Cloud Integrations"],
+    "automation_devops": ["CI/CD Pipelines", "Git", "JIRA", "Infrastructure Automation", "API Debugging"],
+    "databases": ["MySQL", "MongoDB", "SQLite", "SQL"],
+    "software_engineering": ["Algorithms", "Data Structures", "OOP", "Unit Testing", "Clean Code"]
+  },
+  "work_experience": [
+    {
+      "role": "Meta Technical Pro",
+      "company": "Accenture",
+      "location": "St. Catharines, Ontario",
+      "duration": "July 2025 – Present",
+      "highlights": [
+        "Provide advanced technical consultation for Meta’s advertising and analytics platforms (Pixel, Conversions API).",
+        "Work with REST APIs and backend systems to configure data pipelines.",
+        "Troubleshoot complex API integration issues and event tracking workflows.",
+        "Collaborate with engineering teams to optimize data flow architectures."
+      ]
+    },
+    {
+      "role": "Full Stack Developer — Python/ Backend Engineer",
+      "company": "Learniphi Technology",
+      "location": "Ahmedabad, India",
+      "duration": "Feb 2021 – Feb 2025",
+      "highlights": [
+        "Designed enterprise-grade backend systems using Python, Django, and Flask.",
+        "Architected microservices-based backend for scalable integrations.",
+        "Optimized backend processing, reducing execution time from 3 days to 3–4 hours.",
+        "Led a team of 5 developers and oversaw code reviews and mentoring.",
+        "Improved database performance across MySQL systems."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Sidewalk Deficiency Detection",
+      "organization": "Kevares Autonomous Services",
+      "description": "Built a YOLOv5-based computer vision system to identify sidewalk defects; developed Python APIs for model inference."
+    },
+    {
+      "title": "Income Prediction Model",
+      "description": "Deployed an ML classification model on AWS SageMaker; implemented MLOps workflows using MLflow for tracking."
+    },
+    {
+      "title": "Fake Application Detection System",
+      "description": "Developed an end-to-end ML web app for detecting fraudulent applications with REST API integration."
+    },
+    {
+      "title": "AR-Based E-Commerce Try-On Platform",
+      "description": "Developed Django backend services for real-time AR clothing visualization and product recommendations."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ontario Graduate Certificate in Artificial Intelligence with Machine Learning",
+      "institution": "Humber College, Canada",
+      "year": 2024
+    },
+    {
+      "degree": "Ontario Graduate Certificate in Big Data Solution Architecture",
+      "institution": "Conestoga College, Canada",
+      "year": 2023
+    },
+    {
+      "degree": "Bachelor of Engineering in Information Technology",
+      "institution": "Aditya Silver Oak Institute of Technology, India",
+      "year": 2021
+    }
+  ],
+  "additional_information": {
+    "work_authorization": "Eligible to work in Canada without sponsorship",
+    "methodologies": ["Agile development"]
+  }
+}

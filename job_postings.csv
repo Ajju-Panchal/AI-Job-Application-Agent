@@ -1,0 +1,97 @@
+url,title,company,publication_date,description
+https://ca.linkedin.com/jobs/view/machine-learning-engineer-early-career-canada-at-jobright-ai-4403307716,Machine Learning Engineer - Early Career (Canada),Jobright.ai,,"Jobright is your personal AI job search agent that transforms the way you do job search. They are seeking an Early Career Machine Learning Engineer to design, build, and maintain scalable infrastructure for AI agents, as well as optimize data processing and develop automated systems for model monitoring.
+Why Join Us
+• Build real, production AI agents used by real users
+• High ownership and impact
+• Work at the intersection of AI, agents, and product
+• Shape how people experience AI-driven job search
+Responsibilities
+• Integrate yourself directly into client and internal workflows to ensure data-driven insights are a vital part of AI agent analysis and decision-making
+• Produce custom, timely data reports and visualizations that provide expert analysis for both internal product teams and external clients
+• Handle data-related requests promptly and satisfactorily, communicating complex findings in an effective, consistent, and professional manner
+• Report to a manager and work regularly with other members of the team to refine data models and agent performance
+Qualification
+Required
+• Recent graduate or entry-level professional with 0–2 years of experience in data analysis or a related technical field
+• Strong communication and interpersonal skills, with the ability to explain data trends to both technical and non-technical stakeholders
+• A strong knowledge of statistics, data analysis methodologies, and the logical frameworks of AI and machine learning
+Preferred
+• Previous internship or project experience as a data analyst, support staffer, or researcher within a tech environment or AI-focused company
+• Proven experience working with analytics to provide practical and digestible insights gleaned from complex data sets
+• Technical skills such as coding (Python/R), data modeling, and database management (SQL)"
+https://ca.linkedin.com/jobs/view/machine-learning-engineer-knowledge-systems-at-umaneo-4403528020,Machine Learning Engineer (Knowledge Systems),Umaneo,,"About Us
+Umaneo is a Canadian AI consulting firm composed of passionate, highly motivated experts on a mission to build custom AI solutions, with a fearless desire to disrupt the world for the best. The team takes a delightfully human approach to solve big business problems, delivered in elegantly designed solutions. What’s more, we attract some of the best talent and propose a human-centric, truly remote workplace, with an emphasis on developing our talented individuals to their true potential.
+We work with clients who are global leaders in immersive entertainment, industrial automation, retail, and legal tech. Our crew has delivered over 30 AI projects spanning generative models, signal processing, time series, and computer vision. We work end-to-end, from project scoping and prototyping through deployment and monitoring, to deliver production-ready systems.
+Position Overview
+We are seeking a
+Machine Learning Engineer
+with strong experience building production AI systems, with a focus on
+natural language processing, information retrieval,
+and
+knowledge-based systems
+.
+In this role, you will work across the full lifecycle of AI projects, contributing to system design, implementation, and deployment. You will collaborate closely with technical and business stakeholders to deliver robust, scalable solutions across a diverse set of applications.
+You will also contribute to the design of systems that combine structured and unstructured data, including retrieval and reasoning pipelines.
+Key Responsibilities
+Design and implement machine learning systems, including:
+NLP and large language models (LLMs)
+Information retrieval systems (semantic search, hybrid search, ranking)
+Knowledge-based systems (knowledge graphs, structured reasoning)
+Contribute to end-to-end ML workflows:
+Data preparation and pipeline design
+Feature engineering and model development
+Evaluation, iteration, and performance tuning
+Deployment and monitoring of production systems
+Participate in system design and architecture decisions, including:
+Retrieval-Augmented Generation (RAG) pipelines
+Hybrid retrieval systems (vector + keyword + semantic)
+Integration of structured and unstructured data sources
+Work closely with stakeholders to:
+Translate business problems into technical solutions
+Understand constraints and define appropriate approaches
+Iterate based on feedback and evolving requirements
+Contribute to engineering quality and best practices:
+Write clean, maintainable, and well-documented code
+Participate in code reviews and technical discussions
+Ensure reproducibility and robustness of experiments
+Stay current with advancements in AI, particularly in NLP and retrieval systems, and apply them pragmatically in real-world contexts
+Qualifications
+Bachelor’s or Master’s degree in Computer Science, AI, Data Science, or a related field
+Demonstrated ownership of production systems
+Strong programming skills in Python and experience with ML frameworks (e.g., PyTorch, TensorFlow, scikit-learn)
+Hand-on experience with the following:
+Natural Language Processing (NLP), transformer models, and modern LLM ecosystems
+Information Retrieval and search systems (vector databases, hybrid search algorithms, ranking methods)
+Knowledge representation (e.g., knowledge graphs, ontologies)
+Designing and evaluating end-to-end AI pipelines
+Working with real-world, unstructured data (text-heavy systems in particular)
+Deploying ML systems in cloud environments (Azure, GCP, or AWS)
+Excellent communication skills, with the ability to explain complex concepts to technical and non-technical audiences
+What We Offer
+The opportunity to work on cutting-edge AI projects in entertainment, industrial automation, and beyond.
+Flexible working arrangements (remote-first team).
+A collaborative environment where your growth and contributions directly shape project outcomes.
+Exposure to a variety of real-world AI challenges."
+https://ca.linkedin.com/jobs/view/qa-engineer-early-career-canada-at-jobright-ai-4403308746,QA Engineer (Early Career) (Canada),Jobright.ai,,"Jobright is your personal AI job search agent that transforms the way you do job search from solo, time-consuming efforts to a fast, expert-guided journey, simplifying every job search step and accelerating your route to the best job outcomes. They are seeking a QA Engineer to design and execute test plans, identify bugs, and collaborate with teams to ensure product quality.
+Why Join Us
+• Build real, production AI agents used by real users
+• High ownership and impact
+• Work at the intersection of AI, agents, and product
+• Shape how people experience AI-driven job search
+Responsibilities
+• Design and execute test plans, test cases, and regression suites that ensure product quality across web and API layers before every release
+• Identify, reproduce, and document bugs with clear severity assessments and reproduction steps that help engineers resolve issues quickly
+• Build and maintain automated test frameworks that reduce manual testing effort and catch regressions early in the development cycle
+• Collaborate with product and engineering teams during sprint planning and feature reviews to surface edge cases and quality risks before code is written
+• Track and report on quality metrics such as defect rates, test coverage, and release readiness to give the team a clear picture of product health
+Qualification
+Required
+• Recent graduate or early-career professional (0–2 years of experience) with a degree in Computer Science, Software Engineering, or a related technical field
+• Hands-on experience writing automated tests using frameworks such as Selenium, Cypress, Playwright, or Pytest
+• A sharp eye for detail and the natural instinct to ask ‘what could go wrong’ — comfortable thinking through edge cases, boundary conditions, and failure modes
+• Strong communication skills with the ability to write clear, actionable bug reports that engineers actually want to read
+Preferred
+• Previous internship or project experience owning QA processes, writing test strategies, or shipping tested features in a team environment
+• Familiarity with API testing tools like Postman or REST Assured and experience validating backend behavior independent of the UI
+• Exposure to integrating automated tests into CI/CD pipelines using tools like GitHub Actions, Jenkins, or CircleCI
+• Interest in shifting quality left — advocating for testability in design discussions rather than only catching issues after implementation"

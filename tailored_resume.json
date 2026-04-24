@@ -1,0 +1,126 @@
+{
+  "personal_info": {
+    "name": "Ajay Luhar",
+    "email": "iamajayluhar@gmail.com",
+    "phone": "+1(548) 333-4376",
+    "location": "Mississauga, Ontario",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/ajayluhar"
+    }
+  },
+  "professional_summary": "Python Expert with 4+ years of experience specializing in building scalable backend APIs on AWS. Proven background in AI/ML, with expertise in Django and FastAPI.",
+  "technical_skills": {
+    "programming": [
+      "Python"
+    ],
+    "web_api_development": [
+      "FastAPI",
+      "Django",
+      "RESTful APIs",
+      "Microservices Architecture"
+    ],
+    "ai_ml": [
+      "AI/ML"
+    ],
+    "cloud_infrastructure": [
+      "AWS",
+      "Scalable Systems",
+      "Serverless Architectures",
+      "Cloud Integrations"
+    ],
+    "backend_development": [
+      "Backend Development"
+    ],
+    "automation_devops": [
+      "API Debugging",
+      "CI/CD Pipelines",
+      "Git",
+      "JIRA"
+    ],
+    "databases": [
+      "MySQL",
+      "MongoDB",
+      "SQLite",
+      "SQL"
+    ],
+    "software_engineering": [
+      "Algorithms",
+      "Data Structures",
+      "OOP",
+      "Unit Testing",
+      "Clean Code"
+    ]
+  },
+  "work_experience": [
+    {
+      "role": "Meta Technical Pro",
+      "company": "Accenture",
+      "location": "St. Catharines, Ontario",
+      "duration": "July 2025 \u2013 Present",
+      "highlights": [
+        "Provided advanced technical consultation for Meta's advertising and analytics platforms (Pixel, Conversions API), focusing on backend system performance and scalability.",
+        "Configured and optimized data pipelines by working with REST APIs and backend systems, ensuring efficient data flow for analytics.",
+        "Troubleshot and resolved complex API integration issues and event tracking workflows, enhancing the reliability of backend services.",
+        "Collaborated with engineering teams to design and implement scalable data flow architectures, directly impacting backend system efficiency."
+      ]
+    },
+    {
+      "role": "Full Stack Developer \u2013 Python/ Backend Engineer",
+      "company": "Learniphi Technology",
+      "location": "Ahmedabad, India",
+      "duration": "Feb 2021 \u2013 Feb 2025",
+      "highlights": [
+        "Designed and implemented enterprise-grade backend systems using Python, Django, and FastAPI, emphasizing scalability and performance.",
+        "Architected microservices-based backend solutions to facilitate scalable API integrations and robust data processing.",
+        "Significantly optimized backend processing, reducing execution time from 3 days to 3-4 hours, demonstrating expertise in backend scaling.",
+        "Contributed to the development and integration of AI/ML models into production systems, enhancing backend functionalities.",
+        "Improved database performance across MySQL systems, ensuring efficient data retrieval for backend operations."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Sidewalk Deficiency Detection",
+      "organization": "Kevares Autonomous Services",
+      "description": "Engineered a Python-based computer vision system leveraging YOLOv5 for automated sidewalk defect identification. Developed and deployed scalable REST APIs using Python for seamless model inference integration into existing backend services, aligning with the requirement for robust backend solutions."
+    },
+    {
+      "title": "Income Prediction Model",
+      "organization": null,
+      "description": "Successfully deployed a machine learning classification model for income prediction on AWS SageMaker. Implemented robust MLOps workflows with MLflow for comprehensive model tracking and management, demonstrating expertise in ML model deployments and AWS services."
+    },
+    {
+      "title": "Fake Application Detection System",
+      "organization": null,
+      "description": "Architected and developed an end-to-end machine learning web application for detecting fraudulent applications. Integrated a sophisticated REST API to facilitate real-time interaction and data processing, showcasing proficiency in building efficient backend solutions with API integration."
+    },
+    {
+      "title": "AR-Based E-Commerce Try-On Platform",
+      "organization": null,
+      "description": "Developed and deployed scalable backend services using Python and Django for an AR-based e-commerce try-on platform. Implemented features for real-time AR clothing visualization and product recommendations, contributing to the development of efficient backend solutions with Python."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ontario Graduate Certificate in Artificial Intelligence with Machine Learning",
+      "institution": "Humber College, Canada",
+      "year": 2024
+    },
+    {
+      "degree": "Ontario Graduate Certificate in Big Data Solution Architecture",
+      "institution": "Conestoga College, Canada",
+      "year": 2023
+    },
+    {
+      "degree": "Bachelor of Engineering in Information Technology",
+      "institution": "Aditya Silver Oak Institute of Technology, India",
+      "year": 2021
+    }
+  ],
+  "additional_information": {
+    "work_authorization": "Eligible to work in Canada without sponsorship",
+    "methodologies": [
+      "Agile development"
+    ]
+  }
+}
